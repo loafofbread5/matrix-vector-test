@@ -1,4 +1,4 @@
-This is a open-source project made to recreate osu!mania by ppy as a website.
+This is an open-source project made to recreate osu!mania by ppy as a website.
 The website is designed to be used at school in which you will be able to play what ever song you want as long as the current version supports it.
 It is still in development and will be for the foreseeable future.
 The website to go to is as of this moment, https://matrix-vector-test.vercel.app.
